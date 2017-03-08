@@ -14,6 +14,7 @@ Plugin 'tpope/vim-unimpaired'
 Plugin 'fatih/vim-go'
 Plugin 'gmarik/Vundle.vim'
 Plugin 'octol/vim-cpp-enhanced-highlight'
+Plugin 'Valloric/YouCompleteMe'
 
 call vundle#end() "required
 filetype on "required
