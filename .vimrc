@@ -31,10 +31,11 @@ nmap <silent> <A-Left> :wincmd h<CR>
 nmap <silent> <A-Right> :wincmd l<CR>
 
 colorscheme molokai
-imap jk <Esc>
+imap jj <Esc>
 "set clipboard=unnamed
 set clipboard=unnamedplus
 
+set ve=onemore
 set term=screen-256color
 set guifont=Consolas:h12
 set backspace=eol,start,indent
